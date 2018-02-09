@@ -1,5 +1,5 @@
 <?php    
-namespace jfxninja;
+namespace JfxNinja;
 
 class ClassFinder
 {
